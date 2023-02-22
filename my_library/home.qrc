@@ -1,0 +1,6 @@
+<RCC>
+  <qresource/>
+  <qresource prefix="library3">
+    <file>home.jpg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource/>
+  <qresource prefix="belle">
+    <file>bel.jpg</file>
+  </qresource>
+</RCC>
